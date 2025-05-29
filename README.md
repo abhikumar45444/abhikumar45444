@@ -40,8 +40,9 @@ Whether I’m **building slick web apps, fine-tuning game mechanics in C++, or w
 ---  
 
 ## 🛠 What I Do 
+
 <div align="center">
-<img src="helloworld.gif" alt="Hello World" />
+<img src="helloworld.gif" alt="Hello World" style="border-radius:10px;" />
 </div>
 <br/>
 
