@@ -24,7 +24,7 @@
 
 ###
 
-<h1 align="center">Hey coderati's👋</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&letterSpacing=3px&duration=3000&pause=1200&center=true&vCenter=true&width=1280&lines=Hey%2C+fellow+Coderati's%F0%9F%91%8B;You've+found+my+GitHub+space.;+Dive+into+my+projects%2C+star+what+you+like%2C+;and+feel+free+to+connect!)](https://git.io/typing-svg)
 
 ###
 
