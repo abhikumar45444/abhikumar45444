@@ -39,7 +39,12 @@ Whether I’m **building slick web apps, fine-tuning game mechanics in C++, or w
 
 ---  
 
-## 🛠 What I Do  
+## 🛠 What I Do 
+<div align="center">
+<img src="helloworld.gif" alt="Hello World" />
+</div>
+<br/>
+
 - **Full-Stack Development** – Bringing ideas to life with **HTML, CSS, JavaScript, Node.js, and MongoDB**  
 - **Game Development** – Crafting interactive experiences in **C++, Raylib, and WebAssembly**  
 - **Debugging & Optimization** – Because **every bug has a story** 🐛  
