@@ -93,9 +93,13 @@ Whether I’m **building slick web apps, fine-tuning game mechanics in C++, or w
   <img width="28" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32" alt="express logo"  />
   <img width="28" />
+  <img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" height="32" width="32" alt="mongoose logo"  />
+  <img width="28" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" alt="mongodb logo"  />
   <img width="28" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="mysql logo"  />
+  <img width="28" />
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="32" alt="postman logo"  />
   <img width="28" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="32" alt="arduino logo"  />
   <img width="28" />
@@ -110,6 +114,8 @@ Whether I’m **building slick web apps, fine-tuning game mechanics in C++, or w
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="32" alt="npm logo"  />
   <img width="28" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" height="32" alt="processing logo"  />
+  <img width="28" />
+  <img src="https://www.raylib.com/common/img/raylib_logo.png" height="32" alt="Raylib logo"  />
   <img width="28" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" height="32" alt="sdl logo"  />
   <img width="28" />
